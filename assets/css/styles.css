@@ -311,7 +311,7 @@ h6 {
   color: #fdfdfd !important;
 }
 .text-color {
-  color: #ff334f !important;
+  color: #C05E74 !important;
 }
 
 
@@ -320,7 +320,7 @@ h6 {
 */
 
 .text-highlight {
-  background-color: #00c775;
+  background-color: #C05E74;
   border-radius: 1px;
   color: #fdfdfd;
   display: inline-block;
@@ -334,7 +334,7 @@ h6 {
 */
 
 .title-underline {
-  border-bottom: 4px solid #00c775;
+  border-bottom: 4px solid #C05E74;
 }
 
 
@@ -507,7 +507,7 @@ h6 {
   background-color: #fdfdfd !important;
 }
 .background-color {
-  background-color: #00c775 !important;
+  background-color: #C05E74 !important;
 }
 
 
@@ -1370,7 +1370,7 @@ i-rounded {
   color: #292627;
 }
 #navigation .navbar-nav > li > a:after {
-  background-color: #00c775;
+  background-color: #C05E74;
   content: '';
   display: block;
   margin-top: -1px;
@@ -1532,7 +1532,7 @@ i-rounded {
 \*------------------------------------*/
 
 .header .logo {
-  background-color: #00c775;
+  background-color: #C05E74;
   position: fixed;
   top: 0;
   left: 20px;
@@ -1573,7 +1573,7 @@ i-rounded {
   height: 4px;
 }
 #jpreBar {
-  background-color: #00c775;
+  background-color: #C05E74;
   background-image: none;
   box-shadow: none;
   -moz-box-shadow: none;
@@ -1659,7 +1659,7 @@ i-rounded {
   -ms-animation: pace-theme-center-circle-spin linear infinite 2s;
   -o-animation: pace-theme-center-circle-spin linear infinite 2s;
   animation: pace-theme-center-circle-spin linear infinite 2s;
-  background-color: #00c775;
+  background-color: #C05E74;
   border-radius: 50%;
   color: #ffffff;
   display: block;
@@ -1905,7 +1905,7 @@ i-rounded {
 }
 .text-rotator > .text-rotator-item > .item > span {
   background: linear-gradient(to left, #fdfdfd, #f2f2f2);
-  border-left: 3px solid #00c775;
+  border-left: 3px solid #C05E74;
   border-radius: 2px;
   box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.1);
   display: inline-block;
@@ -1915,7 +1915,7 @@ i-rounded {
 }
 @media (max-width: 479px) {
   .text-rotator > .text-rotator-item > .item > span {
-    border-left: 2px solid #00c775;
+    border-left: 2px solid #C05E74;
     font-size: 24px !important;
     letter-spacing: 2px !important;
     line-height: 34px !important;
@@ -1963,7 +1963,7 @@ i-rounded {
   margin-bottom: 10px;
 }
 .text-rotator > .rotator-pagination > .page.active {
-  background-color: #00c775;
+  background-color: #C05E74;
 }
 .text-rotator > .rotator-pagination > .page:last-child {
   margin-bottom: 0;
@@ -2001,7 +2001,7 @@ i-rounded {
   opacity: 1;
 }
 .text-rotator > .rotator-page-number > .number > .total-items {
-  color: #00c775;
+  color: #C05E74;
 }
 .text-rotator > .rotator-progress-bar {
   background-color: #c2c0c1;
@@ -2030,7 +2030,7 @@ i-rounded {
   z-index: -1;
 }
 .text-rotator > .rotator-progress-bar:before {
-  background-color: #00c775;
+  background-color: #C05E74;
   margin-left: -3px;
   left: 0;
 }
@@ -2040,7 +2040,7 @@ i-rounded {
   right: 0;
 }
 .text-rotator > .rotator-progress-bar > .rotator-bar {
-  background-color: #00c775;
+  background-color: #C05E74;
   display: block;
   position: absolute;
   width: 0%;
@@ -2157,7 +2157,7 @@ i-rounded {
   }
 }
 .profile .profile-description .circle {
-  background-color: #00c775;
+  background-color: #C05E74;
   border-radius: 50%;
   content: '';
   display: block;
@@ -2229,7 +2229,7 @@ i-rounded {
   }
 }
 .profile-chart .item:nth-child(1) > span.percent:before {
-  background-color: #00c775;
+  background-color: #C05E74;
 }
 .profile-chart .item:nth-child(2) > span.percent:before {
   background-color: #aeabad;
@@ -2338,7 +2338,7 @@ i-rounded {
   }
 }
 .gauge-chart-graph .ct-series-a .ct-slice-donut {
-  stroke: #00c775;
+  stroke: #C05E74;
 }
 .gauge-chart-graph .ct-series-b .ct-slice-donut {
   stroke: #aeabad;
@@ -2420,7 +2420,7 @@ i-rounded {
 }
 @media (min-width: 992px) {
   .projects > .item .hover-bg {
-    background-color: #00c775;
+    background-color: #C05E74;
     content: '';
     display: block;
     position: absolute;
@@ -2448,7 +2448,7 @@ i-rounded {
   line-height: 20px;
 }
 .projects > .item .has-sideline:before {
-  background-color: #00c775;
+  background-color: #C05E74;
   content: '';
   display: inline-block;
   margin-top: -1px;
@@ -2497,7 +2497,7 @@ i-rounded {
   color: #292627;
 }
 .project-nav ul > li.active > a:before {
-  background-color: #00c775;
+  background-color: #C05E74;
   content: '';
   display: block;
   margin-top: -1px;
@@ -2604,7 +2604,7 @@ i-rounded {
   cursor: pointer;
 }
 .mfp-triggerBtn:before {
-  background-color: #00c775;
+  background-color: #C05E74;
   content: '';
   display: block;
   position: absolute;
@@ -2642,7 +2642,7 @@ i-rounded {
   height: 100%;
 }
 .mfp-projectTitleWrap:before {
-  background-color: #00c775;
+  background-color: #C05E74;
   content: '';
   display: block;
   position: absolute;
@@ -2660,7 +2660,7 @@ i-rounded {
   position: relative;
 }
 .mfp-projectLink:hover:before {
-  background-color: #00c775;
+  background-color: #C05E74;
   content: '';
   display: block;
   margin-top: -1px;
@@ -2743,7 +2743,7 @@ i-rounded {
   }
 }
 .mfp-triggerClose {
-  background-color: #00c775;
+  background-color: #C05E74;
   opacity: 1;
   margin-top: -50px;
   position: absolute;
@@ -2785,7 +2785,7 @@ button.mfp-arrow {
   }
 }
 button.mfp-arrow:before {
-  background-color: #00c775;
+  background-color: #C05E74;
   border: none;
   border-radius: 50%;
   color: #fdfdfd;
@@ -2843,7 +2843,7 @@ img.mfp-img {
 }
 .mfp-preloader {
   animation: rotateplane 1.2s infinite ease-in-out;
-  background-color: #00c775;
+  background-color: #C05E74;
   opacity: 0.9;
   margin: -30px auto 0;
   width: 30px;
@@ -2921,7 +2921,7 @@ img.mfp-img {
   }
 }
 .gallery-carousel .gallery-cell .cell-number {
-  background-color: #00c775;
+  background-color: #C05E74;
   border-radius: 50%;
   line-height: 60px !important;
   opacity: 0.95;
@@ -3236,7 +3236,7 @@ img.mfp-img {
   background-color: #c2c0c1;
 }
 .area-chart-wrapper ul > li:nth-child(2) > span:before {
-  background-color: #00c775;
+  background-color: #C05E74;
 }
 .area-chart-wrapper ul > li:nth-child(3) > span:before {
   background-color: #dad9da;
@@ -3247,7 +3247,7 @@ img.mfp-img {
 }
 .area-chart-wrapper ul > li > span:before {
   border-radius: 2px;
-  background-color: #00c775;
+  background-color: #C05E74;
   content: '';
   display: block;
   margin-top: -1px;
@@ -3278,7 +3278,7 @@ img.mfp-img {
   fill: #c2c0c1;
 }
 .area-chart-graph .ct-series-b .ct-area {
-  fill: #00c775;
+  fill: #C05E74;
 }
 .area-chart-graph .ct-series-c .ct-area {
   fill: #dad9da;
