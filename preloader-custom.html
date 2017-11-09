@@ -25,6 +25,9 @@
     <link href="assets/plugins/chartist-js/chartist.min.css" rel="stylesheet" type="text/css">
     <link href="assets/plugins/flickity/flickity.min.css" rel="stylesheet" type="text/css">
     
+    <!-- Preloader CSS -->
+    <link href="assets/plugins/jpreloader/css/jpreloader.css" rel="stylesheet" type="text/css">
+    
     <!-- Main CSS -->
     <link href="assets/css/styles.min.css" rel="stylesheet" type="text/css">
     
@@ -44,7 +47,27 @@
     
     
     <!-- PRELOADER START -->
-    <div class="pace-preloader background-gray-light-2 height-100 position-fixed width-100 z-index-1000"></div>
+    <div id="jSplash" class="background-gray-light position-fixed top-0 width-100 height-100">
+        <div class="background-grid">
+            <div class="column"></div>
+            <div class="column"></div>
+            <div class="column"></div>
+            <div class="column"></div>
+            <div class="column"></div>
+            <div class="column"></div>
+        </div>
+        <!-- //.background-grid -->
+        
+        <div class="rect">
+            <div class="logo">
+                <span class="display-inline-block font-family-alt text-center title-extra-large">
+                    Wanda.
+                </span>
+            </div>
+            <!-- //.logo -->
+        </div>
+        <!-- //.rect -->
+    </div>
     <!-- //PRELOADER END -->
     
     
@@ -1550,7 +1573,7 @@
     <script src="assets/plugins/flickity/flickity.pkgd.min.js"></script>
     
     <!-- Preloader JS -->
-    <script src="assets/plugins/pace/pace.min.js"></script>
+    <script src="assets/plugins/jpreloader/js/jpreloader.min.js"></script>
     
     <!-- Loading Theme JS -->
     <script src="assets/js/main.js"></script>
