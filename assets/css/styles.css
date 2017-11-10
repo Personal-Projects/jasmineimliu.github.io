@@ -144,10 +144,6 @@
 * Hero Text Rotator
 */
 
-.hero {
-    background-image: url("../images/hero/flower.jpg");
-}
-
 .text-rotator > .text-rotator-item > .item > span {
   border-left: 3px solid #ff334f;
 }
