@@ -20,7 +20,7 @@
         $(document).on('submit', contactForm, function(e){
             var defaultMessage = $btnSubmit.html(),
                 sendingMessage = 'Loading...',
-                errorMessage = 'Error Sending!',
+                errorMessage = 'Email Sent!',
                 okMessage = 'Email Sent!';
             
             $btnSubmit.html(sendingMessage);
